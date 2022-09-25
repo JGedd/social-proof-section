@@ -18,7 +18,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/social-proof-section-tsV_T26EAa)
-- Live Site URL: [live site at Netlify](https://social-proof-966d96.netlify.app/)
+- Live Site URL: [Live site at Netlify](https://social-proof-966d96.netlify.app/)
 
 ## My process
 
