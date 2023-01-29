@@ -115,18 +115,20 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    text-align: center;
     
   @media only screen and (min-width: $bp-desktop) {
       max-width: 44.5rem;
       height: 5.6rem;
       align-items: center;
+      flex-direction: row;
       gap: 3.25rem;
 
     }
   }
 
   &--mx-5 {
-    margin-left: 0rem;
+    margin-left: 0;
 
     @media only screen and (min-width: $bp-desktop) {
       margin-left: 5rem;
@@ -134,7 +136,7 @@ body {
   }
 
   &--mx-10 {
-    margin-left: 0rem;
+    margin-left: 0;
 
     @media only screen and (min-width: $bp-desktop) {
       margin-left: 10rem;
