@@ -29,7 +29,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - Flexbox
 - CSS Grid
 - BEM
-- SASS
 
 ### What I learned
 
